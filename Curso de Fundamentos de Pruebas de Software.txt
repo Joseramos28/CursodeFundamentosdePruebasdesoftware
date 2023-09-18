@@ -1,0 +1,9 @@
+1.- Hay que tener una buena comunicación con el cliente para entender los puntos críticos que desea en su software, además esto servirá al momento de aclarar defectos y sugerencias.
+2.- Al momento de desarrollar el software, el tester correspondiente debe asegurarse de que todo esté en orden (el tester de seguridad, el de devops, etc.).
+3.- Hacer una verificación en cada fase (con el algoritmo que la profesora nos mostró), así si se encuentran errores o cualquier cosa, estaremos a tiempo de corregir, reportar, y revisar.
+4.- Considerar cada contexto donde se puede llevar acabo la aplicación y realizar un testing completo.
+4.1.- Ejecutar los niveles de prueba.
+4.2.- Pruebas estáticas y dinámicas.
+4.3.- En caso de ser necesario, ejecutar cajas blancas y negras.
+5.- Ir realizando pruebas de aceptación frente al cliente.
+6.- Hacia la parte final, realizar depuración
